@@ -1,19 +1,16 @@
 #### Используемые инструменты:
 - Операционная система Windows 10 x64
 - Интерпретатор языка Python 3.7
-- Библиотеки Matplotlib, NetworkX, itertools, math, bellmanford(для рисования) для Python
+- Библиотеки Matplotlib, NetworkX, itertools, math, bellmanford(для отрисовки графа) для Python
 
 #### Алгоритм Флойда (O(V^3))
 
-Открыть консоль и перейти в директорию, где лежит файл с кодом.
+Открыть консоль и перейти в директорию, где лежит файл с кодом, скопировать туда requirments_floyd.txt.
 
 Набрать следующие команды:
 
 ```
-pip install matplotlib
-```
-```
-pip install networkx
+pip install -r requirments_floyd.txt
 ```
 ```
 python Floyd.py
@@ -32,20 +29,13 @@ python Floyd.py
 
 #### Алгоритм Беллмана — Форда (O(VE))
 
-Открыть консоль и перейти в директорию, где лежит файл с кодом.
+Открыть консоль и перейти в директорию, где лежит файл с кодом,  скопировать туда requirments_ford.txt.
 
 Набрать следующие команды:
 
 ```
-pip install matplotlib
+pip install -r requirments_ford.txt
 ```
-```
-pip install networkx
-```
-```
-pip install bellmanford
-```
-bellmanford использяуется для отрисовки графа.
 ```
 python main.py
 ```
