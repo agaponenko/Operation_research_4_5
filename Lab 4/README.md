@@ -21,7 +21,8 @@ python Floyd.py
 #### Результат выполнения
 
 Входные данные :
-![alt text](screenshots/floyd_input.png "Описание будет тут")
+
+![alt text](screenshots/floyd_input.png)
 
 
 
