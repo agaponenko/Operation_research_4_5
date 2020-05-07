@@ -3,30 +3,6 @@
 - Интерпретатор языка Python 3.7
 - Библиотеки Matplotlib, NetworkX, itertools, math, bellmanford(для отрисовки графа) для Python
 
-#### Алгоритм Флойда (O(V^3))
-
-Открыть консоль и перейти в директорию, где лежит файл с кодом, скопировать туда requirments_floyd.txt.
-
-Набрать следующие команды:
-
-```
-pip install -r requirments_floyd.txt
-```
-```
-python Floyd.py
-```
-#### Результат выполнения
-
-Входные данные :
-
-![alt text](screenshots/floyd_input.png)
-
-Результат :
-
-![alt text](screenshots/floyd_output.png)
-
-
-
 #### Алгоритм Беллмана — Форда (O(VE))
 
 Открыть консоль и перейти в директорию, где лежит файл с кодом,  скопировать туда requirments_ford.txt.
@@ -70,4 +46,25 @@ python main.py
 ![alt text](screenshots/ford_o3.png)
 ![alt text](screenshots/graph_3.png)
 
+#### Алгоритм Флойда (O(V^3))
+
+Открыть консоль и перейти в директорию, где лежит файл с кодом, скопировать туда requirments_floyd.txt.
+
+Набрать следующие команды:
+
+```
+pip install -r requirments_floyd.txt
+```
+```
+python Floyd.py
+```
+#### Результат выполнения
+
+Входные данные :
+
+![alt text](screenshots/floyd_input.png)
+
+Результат :
+
+![alt text](screenshots/floyd_output.png)
 
