@@ -24,6 +24,10 @@ python Floyd.py
 
 ![alt text](screenshots/floyd_input.png)
 
+Результат :
+
+![alt text](screenshots/floyd_output.png)
+
 
 
 #### Алгоритм Беллмана — Форда (O(VE))
